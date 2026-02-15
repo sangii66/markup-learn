@@ -1,5 +1,5 @@
 # Getting Started
-Git Learning!
+Git Learning! making change via github web portal
 Install the dependencies and run the project in watch mode
 ```
 npm install
